@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Lista_Dzwiekow_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <lista_dzwiekow_XML>
+    <Dzwiek_XML>
+      <id_dzwieku>0</id_dzwieku>
+      <nazwa_dzwieku>117136__cobratronik__wind-artic-cold.wav</nazwa_dzwieku>
+      <ilosc_powtorzen>1</ilosc_powtorzen>
+      <czestotliwosc_powtorzen>1</czestotliwosc_powtorzen>
+      <grane_w_petli>true</grane_w_petli>
+      <glosnosc>0.0304347817</glosnosc>
+      <aktywny>true</aktywny>
+    </Dzwiek_XML>
+    <Dzwiek_XML>
+      <id_dzwieku>1</id_dzwieku>
+      <nazwa_dzwieku>Creepy_Background.wav</nazwa_dzwieku>
+      <ilosc_powtorzen>1</ilosc_powtorzen>
+      <czestotliwosc_powtorzen>1</czestotliwosc_powtorzen>
+      <grane_w_petli>true</grane_w_petli>
+      <glosnosc>0.37391302</glosnosc>
+      <aktywny>true</aktywny>
+    </Dzwiek_XML>
+    <Dzwiek_XML>
+      <id_dzwieku>7</id_dzwieku>
+      <nazwa_dzwieku>Kroki_Male_Zwierze_1.wav</nazwa_dzwieku>
+      <ilosc_powtorzen>1</ilosc_powtorzen>
+      <czestotliwosc_powtorzen>20</czestotliwosc_powtorzen>
+      <grane_w_petli>false</grane_w_petli>
+      <glosnosc>0.413043469</glosnosc>
+      <aktywny>true</aktywny>
+    </Dzwiek_XML>
+  </lista_dzwiekow_XML>
+</Lista_Dzwiekow_XML>

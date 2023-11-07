@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fbd00a4f86e92c479faa4b190a00788, type: 3}
+  m_Name: Akolita
+  m_EditorClassIdentifier: 
+  Statystyki:
+    Walka_Wrecz:
+      poczatkowa: 0
+      schemat_rozwoju: 5
+      aktualna: 0
+    Umiejetnosci_Strzeleckie:
+      poczatkowa: 0
+      schemat_rozwoju: 5
+      aktualna: 0
+    Krzepa:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Odpornosc:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Zrecznosc:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Inteligencja:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Sila_Woli:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Oglada:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Zywotnosc:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Ataki:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Sila:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Wytrzymalosc:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Szybkosc:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Magia:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Punkty_Obledu:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+    Punkty_Przeznaczenia:
+      poczatkowa: 0
+      schemat_rozwoju: 0
+      aktualna: 0
+  id: 0
+  nazwa: 
+  podstawowa: 0
+  lista_Umiejetnosci:
+  - {fileID: 11400000, guid: 9f6a5a9c434dab947a2d030b1c546037, type: 2}
+  - {fileID: 11400000, guid: 535b8929868fd754190cf60344920046, type: 2}
+  - {fileID: 11400000, guid: cfb016a2bdcbb6643a19586b92d2baaf, type: 2}
+  - {fileID: 11400000, guid: d31c03dd2f9d3d642be3c875a939fdef, type: 2}
+  - {fileID: 11400000, guid: b99ce1f25a481974ba5685ba9f18d3fe, type: 2}
+  - {fileID: 11400000, guid: b99ce1f25a481974ba5685ba9f18d3fe, type: 2}
+  lista_Zdolnosci: []
